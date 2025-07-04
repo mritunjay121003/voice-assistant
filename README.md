@@ -1,11 +1,11 @@
 # Syntara ✨
-![Syntara Logo](https://i.imgur.com/loc5NF2.jpeg)
+
 
 ## Live Demo
 🌐 [Access Syntara Live Demo](https://syntarawebassist.netlify.app/)
 
-## Screenshots
-![Syntara Interface](https://i.imgur.com/1plzitg.png)
+
+
 
 ## Overview
 Syntara is an intelligent, voice-powered virtual assistant designed to simplify daily tasks through intuitive speech interactions and cutting-edge web technologies.
@@ -79,7 +79,7 @@ Syntara is an intelligent, voice-powered virtual assistant designed to simplify 
 ### Installation Steps
 1. Clone repository
    ```bash
-   git clone https://github.com/shibbux/syntara-web-version.git
+   git clone https://github.com/mritunjay121003/voice-assistant.git
    ```
 2. Navigate to project directory
 3. Replace API keys in `script.js`:
@@ -106,9 +106,6 @@ Syntara is an intelligent, voice-powered virtual assistant designed to simplify 
 - Fast response times
 - Secure API interactions
 
-## 👥 Team
-- **Shivam Kumar**: Project Architect
-- **Shubham Karna**: Development Lead
 
 ## 🚧 Roadmap
 - [ ] Machine learning integration
@@ -130,10 +127,10 @@ Syntara is an intelligent, voice-powered virtual assistant designed to simplify 
 - JavaScript Async Programming
 
 ## 🔗 Connect
-- GitHub: https://github.com/shibbux
+- GitHub: https://github.com/
 
 
 ## 📝 License
-[This is license under MIT] https://github.com/shibbux/syntara-web-version/LICENSE
+[This is license under MIT] https://github.com/mritunjay121003/voice-assistant/LICENSE
 
 **Unleash the power of voice technology with Syntara!** 🎉🚀
